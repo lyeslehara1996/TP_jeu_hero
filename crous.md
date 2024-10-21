@@ -11,4 +11,4 @@ Le CROUS est un lieu de vie et d'échanges, idéal pour rencontrer d'autres étu
 
 ![CROUS](./crous.jpg)
 
-Si vous vouler aller 
+Si vous voulez aller à [la bibliothèque](Bibliothèque.md)
