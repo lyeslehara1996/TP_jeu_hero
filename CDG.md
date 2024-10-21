@@ -8,5 +8,5 @@ En attendant, profitez du spectacle des avions qui s'envolent et atterrissent, t
 
 Maintenant , il faut partir : 
 
-- [Bibliothèque](bibliothèque.md)
+- [Bibliothèque](Bibliothèque.md)
 - [Crous](crous.md)
