@@ -8,3 +8,5 @@ De plus, il est possible de travailler en groupe en réservant des salles de tra
  vos connaissances ensemble. 
  
 Cependant, si vous préférez étudier dans le confort de votre chambre ou simplement vous reposer, vous pouvez également vous rendre au [Crous](crous.md), où vous trouverez des espaces conviviaux et relaxants.
+
+-Retour au [jardin](jardin.md)
