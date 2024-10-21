@@ -4,4 +4,5 @@ Bonjour ! Profiter du jardin est un vrai bonheur. Le calme, la nature, c’est p
 
 ![Image Cezeaux](./Img-jardin.jpg)
 
-Si vous voulez aller à [la bibliothèque](Bibliothèque.md)
+- Si vous voulez quelque chose dans votre chambre, vous pouvez aller a [CROUS](crous.md)
+- Aller a la [tour](tour.md) 
